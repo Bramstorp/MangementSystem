@@ -1,0 +1,54 @@
+﻿<Window x:Class="CafeMangementSystem.OrderList"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CafeMangementSystem"
+        mc:Ignorable="d"
+        Title="BillLoader" Height="550" Width="1100" Loaded="Window_load">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="170*"/>
+            <ColumnDefinition Width="309*"/>
+            <ColumnDefinition Width="356*"/>
+            <ColumnDefinition Width="261*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="50*"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Add New Bill" Margin="20,8,7,4" FontSize="22" RenderTransformOrigin="0.428,0.59"/>
+
+        <Label Content="Search Order" Grid.Column="1" HorizontalAlignment="Left" Margin="5,7,0,6.5" Grid.Row="1" FontSize="20" Width="130"/>
+        <TextBox x:Name="SearchBox" Grid.Column="1" Margin="137,7,10.5,6.5" Grid.Row="1"  FontSize="20" TextChanged="DropDownBox_TextChanged"></TextBox>
+
+        <Button x:Name="ShowOrders" Content="Show all Orders" Grid.Column="1" Margin="137,7,10.5,6.5" Grid.Row="2"  FontSize="20" Click="ShowOrders_Click"></Button>
+
+        <Label Content="Shipping Status" Grid.Column="2" HorizontalAlignment="Left" Margin="5.5,7,0,6.5" Grid.Row="1" FontSize="20" Width="156"/>
+        <ComboBox x:Name="test" Grid.Column="2" Margin="161.5,7,14,6.5" Grid.Row="1"  FontSize="20">
+            <ComboBoxItem >Confirmed Order</ComboBoxItem>
+            <ComboBoxItem >Shipped</ComboBoxItem>
+            <ComboBoxItem >Canceled</ComboBoxItem>
+        </ComboBox>
+
+        <Label Content="Order Status" Grid.Column="2" HorizontalAlignment="Left" Margin="5.5,7,0,6.5" Grid.Row="2" FontSize="20" Width="156"/>
+        <TextBox x:Name="OrderStatus" Grid.Column="2" Margin="161.5,7,14,6.5" Grid.Row="2" TextWrapping="Wrap" Text="{Binding ElementName=DataGrid, Path=SelectedItem.OrderStatus, Mode=OneWay}" FontSize="20"/>
+
+        <Button Content="Update Order" Grid.Column="3" Margin="24,7,65,6.5" Grid.Row="1" FontSize="20" Click="Button_Click"/>
+
+        <DataGrid x:Name="DataGrid" Grid.Column="1" Margin="10,25.5,14,34.5" Grid.Row="3" Grid.RowSpan="6" Grid.ColumnSpan="2"/>
+
+        <Button Content="Exit" Grid.Column="3" Margin="178,14.5,13,8.5" Grid.Row="8" FontSize="20" Height="auto" Click="exitBtn" RenderTransformOrigin="1.59,0.367"></Button>
+
+    </Grid>
+</Window>
