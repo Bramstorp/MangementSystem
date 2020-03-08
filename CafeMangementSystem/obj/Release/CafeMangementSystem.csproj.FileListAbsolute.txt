@@ -1,0 +1,101 @@
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\bin\Release\CafeMangementSystem.exe.config
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\bin\Release\CafeMangementSystem.exe
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\bin\Release\CafeMangementSystem.pdb
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Bill.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\BillLoader.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Drink.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Employee.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Homepage.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\MainWindow.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\PlaceOrder.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\ProductForm.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Stock.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Supplier.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\User.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\App.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem_MarkupCompile.cache
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem_MarkupCompile.lref
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Bill.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\BillLoader.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Drink.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Employee.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Homepage.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\MainWindow.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\PlaceOrder.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\ProductForm.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Stock.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Supplier.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\User.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem.g.resources
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem.Properties.Resources.resources
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem.csproj.GenerateResource.cache
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem.exe
+C:\Users\Mathias PC\Desktop\CafeMangementSystem-20200221T143840Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem.pdb
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\bin\Release\CafeMangementSystem.exe.config
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\bin\Release\CafeMangementSystem.exe
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\bin\Release\CafeMangementSystem.pdb
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem.csprojAssemblyReference.cache
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\Bill.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\BillLoader.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\Drink.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\Employee.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\Homepage.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\MainWindow.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\PlaceOrder.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\ProductForm.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\Stock.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\Supplier.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\User.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\App.g.cs
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem_MarkupCompile.cache
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem_MarkupCompile.lref
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\Bill.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\BillLoader.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\Drink.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\Employee.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\Homepage.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\MainWindow.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\PlaceOrder.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\ProductForm.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\Stock.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\Supplier.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\User.baml
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem.g.resources
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem.Properties.Resources.resources
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem.csproj.GenerateResource.cache
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem.exe
+C:\Users\Mathias PC\Desktop\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem.pdb
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\bin\Release\CafeMangementSystem.exe.config
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\bin\Release\CafeMangementSystem.exe
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\bin\Release\CafeMangementSystem.pdb
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem.csprojAssemblyReference.cache
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Bill.g.cs
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\BillLoader.g.cs
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Drink.g.cs
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Employee.g.cs
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Homepage.g.cs
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\MainWindow.g.cs
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\PlaceOrder.g.cs
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\ProductForm.g.cs
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Stock.g.cs
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Supplier.g.cs
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\User.g.cs
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\App.g.cs
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem_MarkupCompile.cache
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem_MarkupCompile.lref
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Bill.baml
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\BillLoader.baml
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Drink.baml
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Employee.baml
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Homepage.baml
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\MainWindow.baml
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\PlaceOrder.baml
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\ProductForm.baml
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Stock.baml
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\Supplier.baml
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\User.baml
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem.g.resources
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem.Properties.Resources.resources
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem.csproj.GenerateResource.cache
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem.exe
+C:\Users\Thias\Desktop\CafeMangementSystem-20200302T105754Z-001\CafeMangementSystem\CafeMangementSystem\obj\Release\CafeMangementSystem.pdb
